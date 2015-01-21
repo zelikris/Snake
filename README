@@ -1,0 +1,12 @@
+SNAKE
+
+Written by:
+Kristian Zhelyazkov
+
+Move the snake with the up, down, left, or right arrow keys and eat the food!
+
+The outside border decreases for each of the 3 levels. 
+
+Pressing the reset during the game will restart it.
+
+Enjoy! 
